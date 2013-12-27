@@ -1,0 +1,422 @@
+[
+    {
+        "desc": ["An online book designed to teach web designers to develop dynamic and interactive web pages using the language.\r"],
+        "link": ["http://www.techotopia.com/index.php/JavaScript_Essentials"],
+        "title": ["JavaScript Essentials"]
+    },
+    {
+        "desc": ["The accompanying web site to the book \"JavaScript   for the World Wide Web, Visual QuickStart Guide,  4th Edition,\" by Tom Negrino and Dori Smith.  Includes all the scripts in the book.\r"],
+        "link": ["http://www.chalcedony.com/javascript/"],
+        "title": ["Joy of JavaScript"]
+    },
+    {
+        "desc": ["A large, detailed, and compendius book covering JavaScript from many angles: browser, server, standalone and embedded. Explains interworking with Java, DHTML, ASP, WSH, CGI, cookies and others. Numerous complete examples.\r"],
+        "link": ["http://www.webreference.com/programming/javascript/professional/"],
+        "title": ["Professional JavaScript"]
+    },
+    {
+        "desc": ["By Wesley J. Chun; Prentice Hall PTR, 2001, ISBN 0130260363. For experienced developers to improve extant skills; professional level examples. Starts by introducing syntax, objects, error handling, functions, classes, built-ins. [Prentice Hall]\r"],
+        "link": ["http://www.pearsonhighered.com/educator/academic/product/0,,0130260363,00%2Ben-USS_01DBC.html"],
+        "title": ["Core Python Programming"]
+    },
+    {
+        "desc": ["The primary goal of this book is to promote object-oriented design using Python and to illustrate the use of the emerging object-oriented design patterns.\r"],
+        "link": ["http://www.brpreiss.com/books/opus7/html/book.html"],
+        "title": ["Data Structures and Algorithms with Object-Oriented Design Patterns in Python"]
+    },
+    {
+        "desc": ["By Mark Pilgrim, Guide to Python 3  and its differences from Python 2. Each chapter starts with a real code sample and explains it fully. Has a comprehensive appendix of all the syntactic and semantic changes in Python 3\r"],
+        "link": ["http://www.diveintopython.net/"],
+        "title": ["Dive Into Python 3"]
+    },
+    {
+        "desc": ["This book covers a wide range of topics. From raw TCP and UDP to encryption with TSL, and then to HTTP, SMTP, POP, IMAP, and ssh. It gives you a good understanding of each field and how to do everything on the network with Python.\r"],
+        "link": ["http://rhodesmill.org/brandon/2011/foundations-of-python-network-programming/"],
+        "title": ["Foundations of Python Network Programming"]
+    },
+    {
+        "desc": ["Free Python books and tutorials.\r"],
+        "link": ["http://www.techbooksforfree.com/perlpython.shtml"],
+        "title": ["Free Python books"]
+    },
+    {
+        "desc": ["Annotated list of free online books on Python scripting language. Topics range from beginner to advanced.\r"],
+        "link": ["http://www.freetechbooks.com/python-f6.html"],
+        "title": ["FreeTechBooks: Python Scripting Language"]
+    },
+    {
+        "desc": ["By Allen B. Downey, Jeffrey Elkner, Chris Meyers; Green Tea Press, 2002, ISBN 0971677506. Teaches general principles of programming, via Python as subject language. Thorough, in-depth approach to many basic and intermediate programming topics. Full text online and downloads: HTML, PDF, PS, LaTeX. [Free, Green Tea Press]\r"],
+        "link": ["http://greenteapress.com/thinkpython/"],
+        "title": ["How to Think Like a Computer Scientist: Learning with Python"]
+    },
+    {
+        "desc": ["By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161769. Printed edition of official tutorial, for v2.x, from Python.org. [Network Theory, online]\r"],
+        "link": ["http://www.network-theory.co.uk/python/intro/"],
+        "title": ["An Introduction to Python"]
+    },
+    {
+        "desc": ["Book by Alan Gauld with full text online. Introduction for those learning programming basics: terminology, concepts, methods to write code. Assumes no prior knowledge but basic computer skills.\r"],
+        "link": ["http://www.freenetpages.co.uk/hp/alan.gauld/"],
+        "title": ["Learn to Program Using Python"]
+    },
+    {
+        "desc": ["By Rashi Gupta; John Wiley and Sons, 2002, ISBN 0471219754. Covers language basics, use for CGI scripting, GUI development, network programming; shows why it is one of more sophisticated of popular scripting languages. [Wiley]\r"],
+        "link": ["http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471219754.html"],
+        "title": ["Making Use of Python"]
+    },
+    {
+        "desc": ["By Magnus Lie Hetland; Apress LP, 2002, ISBN 1590590066. Readable guide to ideas most vital to new users, from basics common to high level languages, to more specific aspects, to a series of 10 ever more complex programs. [Apress]\r"],
+        "link": ["http://hetland.org/writing/practical-python/"],
+        "title": ["Practical Python"]
+    },
+    {
+        "desc": ["By Rytis Sileika, ISBN13: 978-1-4302-2605-5,  Uses real-world system administration examples like manage devices with SNMP and SOAP, build a distributed monitoring system, manage web applications and parse complex log files, monitor and manage MySQL databases.\r"],
+        "link": ["http://www.sysadminpy.com/"],
+        "title": ["Pro Python System Administration"]
+    },
+    {
+        "desc": ["A Complete Introduction to the Python 3.\r"],
+        "link": ["http://www.qtrac.eu/py3book.html"],
+        "title": ["Programming in Python 3 (Second Edition)"]
+    },
+    {
+        "desc": ["By Dave Brueck, Stephen Tanner; John Wiley and Sons, 2001, ISBN 0764548077. Full coverage, clear explanations, hands-on examples, full language reference; shows step by step how to use components, assemble them, form full-featured programs. [John Wiley and Sons]\r"],
+        "link": ["http://www.wiley.com/WileyCDA/WileyTitle/productCd-0764548077.html"],
+        "title": ["Python 2.1 Bible"]
+    },
+    {
+        "desc": ["A step-by-step tutorial for OOP in Python 3, including discussion and examples of abstraction, encapsulation, information hiding, and raise, handle, define, and manipulate exceptions.\r"],
+        "link": ["https://www.packtpub.com/python-3-object-oriented-programming/book"],
+        "title": ["Python 3 Object Oriented Programming"]
+    },
+    {
+        "desc": ["Contains links to assorted resources from the Python universe, compiled by PythonWare.\r"],
+        "link": ["http://www.pythonware.com/daily/"],
+        "title": ["eff-bot's Daily Python URL"]
+    },
+    {
+        "desc": ["A directory of free Python and Zope hosting providers, with reviews and ratings.\r"],
+        "link": ["http://www.oinko.net/freepython/"],
+        "title": ["Free Python and Zope Hosting Directory"]
+    },
+    {
+        "desc": ["Features Python books, resources, news and articles.\r"],
+        "link": ["http://oreilly.com/python/"],
+        "title": ["O'Reilly Python Center"]
+    },
+    {
+        "desc": ["Resources for reporting bugs, accessing the Python source tree with CVS and taking part in the development of Python.\r"],
+        "link": ["http://www.python.org/dev/"],
+        "title": ["Python Developer's Guide"]
+    },
+    {
+        "desc": ["Scripts, examples and news about Python programming for the Windows platform.\r"],
+        "link": ["http://win32com.goermezer.de/"],
+        "title": ["Social Bug"]
+    },
+    {
+        "desc": ["By Guido van Rossum, Fred L. Drake, Jr.; Network Theory Ltd., 2003, ISBN 0954161785. Printed edition of official language reference, for v2.x, from Python.org, describes syntax, built-in datatypes. [Network Theory, online]\r"],
+        "link": ["http://www.network-theory.co.uk/python/language/"],
+        "title": ["Python Language Reference Manual"]
+    },
+    {
+        "desc": ["By Thomas W. Christopher; Prentice Hall PTR, 2002, ISBN 0130409561. Shows how to write large programs, introduces powerful design patterns that deliver high levels of robustness, scalability, reuse.\r"],
+        "link": ["http://www.pearsonhighered.com/educator/academic/product/0,,0130409561,00%2Ben-USS_01DBC.html"],
+        "title": ["Python Programming Patterns"]
+    },
+    {
+        "desc": ["By Richard Hightower; Addison-Wesley, 2002, 0201616165. Begins with Python basics, many exercises, interactive sessions. Shows programming novices concepts and practical methods. Shows programming experts Python's abilities and ways to interface with Java APIs. [publisher website]\r"],
+        "link": ["http://www.informit.com/store/product.aspx?isbn=0201616165&redir=1"],
+        "title": ["Python Programming with the Java Class Libraries: A Tutorial for Building Web and Enterprise Applications with Jython"]
+    },
+    {
+        "desc": ["By Chris Fehily; Peachpit Press, 2002, ISBN 0201748843. Task-based, step-by-step visual reference guide, many screen shots, for courses in digital graphics; Web design, scripting, development; multimedia, page layout, office tools, operating systems. [Prentice Hall]\r"],
+        "link": ["http://www.pearsonhighered.com/educator/academic/product/0,,0201748843,00%2Ben-USS_01DBC.html"],
+        "title": ["Python: Visual QuickStart Guide"]
+    },
+    {
+        "desc": ["By Ivan Van Laningham; Sams Publishing, 2000, ISBN 0672317354. Split into 24 hands-on, 1 hour lessons; steps needed to learn topic: syntax, language features, OO design and programming, GUIs (Tkinter), system administration, CGI. [Sams Publishing]\r"],
+        "link": ["http://www.informit.com/store/product.aspx?isbn=0672317354"],
+        "title": ["Sams Teach Yourself Python in 24 Hours"]
+    },
+    {
+        "desc": ["By David Mertz; Addison Wesley. Book in progress, full text, ASCII format. Asks for feedback. [author website, Gnosis Software, Inc.]\r"],
+        "link": ["http://gnosis.cx/TPiP/"],
+        "title": ["Text Processing in Python"]
+    },
+    {
+        "desc": ["By Sean McGrath; Prentice Hall PTR, 2000, ISBN 0130211192, has CD-ROM. Methods to build XML applications fast, Python tutorial, DOM and SAX, new Pyxie open source XML processing library. [Prentice Hall PTR]\r"],
+        "link": ["http://www.informit.com/store/product.aspx?isbn=0130211192"],
+        "title": ["XML Processing with Python"]
+    },
+    {
+        "desc": ["Makes JavaScript popup window code.\r"],
+        "link": ["http://1stoppopup.com/"],
+        "title": ["1StopPopup's JavaScript Popup Creator"]
+    },
+    {
+        "desc": ["A JavaScript color picker.\r"],
+        "link": ["http://www.stormloader.com/4colors/"],
+        "title": ["4 Colors Selector"]
+    },
+    {
+        "desc": ["An event driven DHTML JavaScript Calendar that displays dates and events in typical wall calendar format.\r"],
+        "link": ["http://www.scriptcalendar.com/"],
+        "title": ["Aarons ScriptCalendar"]
+    },
+    {
+        "desc": ["Collection of ready-to-use Javascripts, features a flexible Javascript PopUp Calendar, PopCal.\r"],
+        "link": ["http://jsutils.sourceforge.net/"],
+        "title": ["Arun's Javascript Utilities"]
+    },
+    {
+        "desc": ["Javascripts for form validation, browser detection, cookies, images swaping. Also calculator and slider game.\r"],
+        "link": ["http://bmgadg.com/javascript.php"],
+        "title": ["Bmgadg.com"]
+    },
+    {
+        "desc": ["A small collection of free javascripts, created by the website-owner, mostly about image-presentation and image-manipulation, presented in german and english. The scripts are crossbrowser, one or two of them (one more way, rotating globe) unique at this time.\r"],
+        "link": ["http://www.bretteleben.de/"],
+        "title": ["Bretteleben.de"]
+    },
+    {
+        "desc": ["Provides a clock using the WHATWG <canvas> element.\r"],
+        "link": ["http://perisic.com/canvasclock/"],
+        "title": ["Canvas Clocks"]
+    },
+    {
+        "desc": ["Offers solutions for type checking, schema validation and dependency management.\r"],
+        "link": ["http://www.cerny-online.com/cerny.js/"],
+        "title": ["Cerny"]
+    },
+    {
+        "desc": ["A pop-up color picker control for use on web pages.\r"],
+        "link": ["http://www.iconico.com/colorPop/"],
+        "title": ["ColorPop"]
+    },
+    {
+        "desc": ["Offers a number of basic scripts.\r"],
+        "link": ["http://www.angelfire.com/scifi/vykk/"],
+        "title": ["Cory's Javascript Page"]
+    },
+    {
+        "desc": ["An open source library to enhance web-based XHTML forms in terms of style, usability and accessibility by using Javascript and CSS. It is based on various Javascript frameworks. Features, demo, download, how-tos, and inside information on the development team are presented,\r"],
+        "link": ["http://customformelements.net/"],
+        "title": ["Custom Form Elements with Javascript"]
+    },
+    {
+        "desc": ["Vertical, horizontal and typewriter scrollers, and a collection of free Javascripts. Multi-OS and multi-browser compatible.\r"],
+        "link": ["http://vbarsan.com/"],
+        "title": ["DHTML Cross-Browser JavaScripts"]
+    },
+    {
+        "desc": ["DHTML component written in pure JavaScript to display and edit data in table, grid, tree or grid with tree. Compatible with the most of standard browsers. ASP.NET support code available. [Commercial]\r"],
+        "link": ["http://www.coqsoft.com/"],
+        "title": ["Editable JavaScript TreeGrid"]
+    },
+    {
+        "desc": ["Prevents all software to grab email addresses from site.\r"],
+        "link": ["http://www.artatoo.com/scripts/email_antileech.shtml"],
+        "title": ["Email AntiLeech"]
+    },
+    {
+        "desc": ["ESPX, an ECMAScript Parser for (almost) XML, with namespaces; and TinyXSL, XML transform in-Script mini-Language\r"],
+        "link": ["http://www.cjandia.com/2001/espx-tinyxsl/"],
+        "title": ["ESPX  and TinyXSL"]
+    },
+    {
+        "desc": ["Web-based HTML text editor with powerful formatting capabilities. Requires no installation on the client computer.\r"],
+        "link": ["http://www.fckeditor.net/"],
+        "title": ["FCKeditor"]
+    },
+    {
+        "desc": ["A bulk of scripts and other JavaScript resources.\r"],
+        "link": ["http://javascript.about.com/"],
+        "title": ["Focus on JavaScript"]
+    },
+    {
+        "desc": ["A JavaScript based content management system. Site content generated at client side by simple text files which can be changed in a text editor. [Free]\r"],
+        "link": ["http://www.cms.online-business.ro/"],
+        "title": ["GEEKO CMS"]
+    },
+    {
+        "desc": ["Free Javascript scripts includes stop watch, timer, domain and email validation script, date functions, alphanumeric validation function.\r"],
+        "link": ["http://hscripts.com/scripts/JavaScript/"],
+        "title": ["HIOX Free Javascript Scripts"]
+    },
+    {
+        "desc": ["Generates a well-formed XHTML string from an HTML DOM object. H2X could be used in Content Management Systems (CMS), online wysiwyg HTML editors or any other javascript application to produce well formed XHTML 1.0 code.\r"],
+        "link": ["http://html2xhtml.richarea.com/"],
+        "title": ["HTML2XHTML Converter (H2X)"]
+    },
+    {
+        "desc": ["Add javascript Popups Announcements to website. Popup content can be easily changed by the website owner - from the Popup itself. Requires registration (Free) and easy install code.\r"],
+        "link": ["http://www.i-announce.net/"],
+        "title": ["I-Announce"]
+    },
+    {
+        "desc": ["Provides a JQuery plugin to include files in a web page.\r"],
+        "link": ["http://johannburkard.de/blog/programming/javascript/inc-a-super-tiny-client-side-include-javascript-jquery-plugin.html"],
+        "title": ["Inc"]
+    },
+    {
+        "desc": ["Library of objects and functions, to display and dynamically modify coordinate diagrams and charts in webpages. [Freeware]\r"],
+        "link": ["http://www.lutanho.net/diagram/"],
+        "title": ["JavaScript Diagram Builder"]
+    },
+    {
+        "desc": ["JavaScript to display photo albums with many customizable options.\r"],
+        "link": ["http://www.kitykity.com/photoalbum/"],
+        "title": ["JavaScript Photo Album"]
+    },
+    {
+        "desc": ["Script for converting your JavaScripts into difficult to read JavaScripts\r"],
+        "link": ["http://www.tero.co.uk/scripts/scrambler.php"],
+        "title": ["JavaScript Scrambler"]
+    },
+    {
+        "desc": ["A read-eval-print loop for JavaScript that works in IE, Mozilla, and Opera.  Includes a Mozilla bookmarklet to run shell commands in the context of any web page.\r"],
+        "link": ["http://www.squarefree.com/shell/"],
+        "title": ["JavaScript Shell"]
+    },
+    {
+        "desc": ["Like a regular Windows Spin control, but is implemented entirely in JavaScript. [Commercial]\r"],
+        "link": ["http://www.ycode.com/Spin/Latest/Spin.htm"],
+        "title": ["JavaScript Spin Control"]
+    },
+    {
+        "desc": ["Collection of tickers for simple text, RSS news and stock market quotes. [Commercial]\r"],
+        "link": ["http://www.jsticker.com/"],
+        "title": ["JavaScript Ticker"]
+    },
+    {
+        "desc": ["Javascript shopping cart capable to support thousands of products through a powerful database manager. [Commercial]\r"],
+        "link": ["http://www.cnctek.com/JSCart/"],
+        "title": ["JSCart Shopping Cart"]
+    },
+    {
+        "desc": ["Provides a script to remove comments and unnecessary whitespaces from JavaScript files.\r"],
+        "link": ["http://www.crockford.com/javascript/jsmin.html"],
+        "title": ["JSMIN, The JavaScript Minifier"]
+    },
+    {
+        "desc": ["A configurable dynamic HTML image and slide show viewer written in JavaScript. Supports displaying images, web pages and text. Supports keyboard controls and multiple languages.\r"],
+        "link": ["http://www.jsviewer.com/"],
+        "title": ["JSviewer"]
+    },
+    {
+        "desc": ["Provides an image zoom script in two different versions. [Commercial]\r"],
+        "link": ["http://www.magictoolbox.com/"],
+        "title": ["Magic Toolbox"]
+    },
+    {
+        "desc": ["Offers a jquery plugin to turn textareas to markup editors with the support of HTML, Textile, Wiki Syntax, Markdown and BBCode.\r"],
+        "link": ["http://markitup.jaysalvat.com/"],
+        "title": ["markItUp"]
+    },
+    {
+        "desc": ["A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don't support them yet.\r"],
+        "link": ["http://www.modernizr.com/"],
+        "title": ["Modernizr"]
+    },
+    {
+        "desc": ["Online pop up generator. Free and highly customizable.\r"],
+        "link": ["http://www.a1ien51.8k.com/scripts/popupwingenV2.htm"],
+        "title": ["Pop Up Window Generator"]
+    },
+    {
+        "desc": ["The javascript calendar with themes support. [Freeware and Commercial]\r"],
+        "link": ["http://www.calendarxp.net/"],
+        "title": ["PopCalendarXP And FlatCalendarXP"]
+    },
+    {
+        "desc": ["Allows to create simple and complex tooltips with the Prototype framework and to emphasize them with Script.aculo.us.\r"],
+        "link": ["http://www.nickstakenburg.com/projects/prototip/"],
+        "title": ["Prototip"]
+    },
+    {
+        "desc": ["JavaScript API for interfacing forms. [Open source, GPL]\r"],
+        "link": ["http://www.pengoworks.com/index.cfm?action=qForms"],
+        "title": ["qForms"]
+    },
+    {
+        "desc": ["Javascript object allowing to select rectangular areas on <DIV> or <IMG> elements. [Free]\r"],
+        "link": ["http://marqueetool.net/"],
+        "title": ["Rectangular Marquee Tool"]
+    },
+    {
+        "desc": ["Uses browser's JavaScript to show matches and subgroups, and highlights match in the input string.\r"],
+        "link": ["http://www.roblocher.com/technotes/regexp.aspx"],
+        "title": ["Regular Expression Tester"]
+    },
+    {
+        "desc": ["A graphing library for websites on all platforms. Includes stable/beta download, working examples, and details of the benefits of using the HTML5's canvas element.\r"],
+        "link": ["http://www.rgraph.net/"],
+        "title": ["RGraph"]
+    },
+    {
+        "desc": ["Allows to create a web page that includes a search engine.  The code can be placed on the website to enable a site search.\r"],
+        "link": ["http://www.searchmakerpro.com/"],
+        "title": ["Search Maker Pro"]
+    },
+    {
+        "desc": ["JavaScript tools that enable your web page visitors to bookmark your site, send an email about it to a friend, or make it their homepage, or with a single mouse click.\r"],
+        "link": ["http://www.send-a-link.com/"],
+        "title": ["Send A Link"]
+    },
+    {
+        "desc": ["Makes it look like snow is falling down the screen. [Freeware]\r"],
+        "link": ["http://www.altan.hr/snow/"],
+        "title": ["Snow"]
+    },
+    {
+        "desc": ["Makes easy for visitors to fill out color value field(s) by selecting the color from a popup palette. [Freeware]\r"],
+        "link": ["http://www.softcomplex.com/products/tigra_color_picker/"],
+        "title": ["Tigra Color Picker"]
+    },
+    {
+        "desc": ["A free JavaScript component performing client side form validation.\r"],
+        "link": ["http://www.softcomplex.com/products/tigra_form_validator/"],
+        "title": ["Tigra Form Validator"]
+    },
+    {
+        "desc": ["A JavaScript component performing client-side form validation.\r"],
+        "link": ["http://www.softcomplex.com/products/tigra_form_validator_pro/"],
+        "title": ["Tigra Form Validator PRO"]
+    },
+    {
+        "desc": ["Displays pop-up box with notes (also known as tooltips or hints) when mouse appears over any HTML element on the page. [Freeware]\r"],
+        "link": ["http://www.softcomplex.com/products/tigra_hints/"],
+        "title": ["Tigra Hints"]
+    },
+    {
+        "desc": ["Scrolls text or html in the box. [Freeware]\r"],
+        "link": ["http://www.softcomplex.com/products/tigra_scroller/"],
+        "title": ["Tigra Scroller"]
+    },
+    {
+        "desc": ["A JavaScript site search engine. It works with any browser that supports JavaScript 1.3 and at least partially supports the W3C DOM Level 1. [Open source, GPL]\r"],
+        "link": ["http://www.tipue.com/"],
+        "title": ["Tipue"]
+    },
+    {
+        "desc": ["A versatile, Javascript driven DHTML menu that works on most popular browsers. It comes in 3 basic modes: vertical, horizontal or collapsing and folds/unfolds on clicks or mouseovers. [Open source, LGPL]\r"],
+        "link": ["http://xmenu-xlayer.sourceforge.net/"],
+        "title": ["Xmenu-xlayer"]
+    },
+    {
+        "desc": ["Tiny library for client-side (browser) transformations of XML with XSLT.\r"],
+        "link": ["http://johannburkard.de/software/xsltjs/"],
+        "title": ["XSLT JS"]
+    },
+    {
+        "desc": ["A Javascript-based form validation script supporting advanced features. [Open source, LGPL]\r"],
+        "link": ["http://yav.sourceforge.net/"],
+        "title": ["Yav"]
+    },
+    {
+        "desc": ["Proposes JavaScript/DHTML controls to extend existing HTML control set including ComboBox, SpreadSheet, Spin, Scrambler. [Commercial]\r"],
+        "link": ["http://www.ycode.com/"],
+        "title": ["yCode"]
+    }
+]

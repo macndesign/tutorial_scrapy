@@ -1,19 +1,24 @@
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from tutorial_scrapy.items import DmozItem
+import subprocess
 
-__author__ = 'mario'
 
 class DmozSpider(BaseSpider):
     name = 'dmoz'
     allowed_domains = ['dmoz.org']
     start_urls = [
         "http://www.dmoz.org/Computers/Programming/Languages/Python/Books/",
-        "http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/"
+        "http://www.dmoz.org/Computers/Programming/Languages/Python/Resources/",
+        "http://www.dmoz.org/Computers/Programming/Languages/JavaScript/Books/",
+        "http://www.dmoz.org/Computers/Programming/Languages/JavaScript/Scripts/"
     ]
 
     def parse(self, response):
-        # filename = response.url.split('/')[-2]
+        # Getting HTML content
+        # lang = response.url.split('/')[-3].lower()
+        # content = response.url.split('/')[-2].lower()
+        # filename = '{0}-{1}.html'.format(lang, content)
         # open(filename, 'wb').write(response.body)
 
         sel = HtmlXPathSelector(response)
